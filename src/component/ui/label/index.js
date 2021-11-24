@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, Platform, Appearance } from 'react-native';
+import { Text,Appearance } from 'react-native';
 import { Color } from '../../../utils/colors';
 //import {fontXSmall, fontSmall, fontNormal, fontLarge, fontXLarge, fontXXLarge} from 'src/utils/theme';
 // import Theme from "../../../utils/ThemeUtils"
